@@ -6,24 +6,6 @@ StudySync is a full-stack web application designed to help students organize, sc
 
 ---
 
-## 🧭 Table of Contents
-
-- [🔍 Overview](#-overview)
-- [🚀 Features](#-features)
-- [🧱 Tech Stack](#-tech-stack)
-- [📁 Folder Structure](#-folder-structure)
-- [⚙️ Setup Instructions](#️-setup-instructions)
-- [🌐 Environment Variables](#-environment-variables)
-- [📡 API Overview](#-api-overview)
-- [🖼️ Screenshots](#-screenshots)
-- [📦 Deployment](#-deployment)
-- [🧠 Future Improvements](#-future-improvements)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [👨‍💻 Author](#-author)
-
----
-
 ## 🔍 Overview
 
 **StudySync** was built to solve a common student problem: inconsistent study habits and disorganized learning schedules. The app allows students to create structured study plans, track completed tasks, visualize progress, and stay consistent with streaks and reminders.
